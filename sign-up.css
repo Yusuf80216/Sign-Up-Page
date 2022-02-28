@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: url(Images/background.jpg);
+    background-image: url(/background.jpg);
     color: white;
     font-family: 'Libre Baskerville', serif;
     display: flex;
